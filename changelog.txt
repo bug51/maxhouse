@@ -1,0 +1,315 @@
+Change Log: Version 1.0 (09 March, 2015)
+=======================================
+
+Added: WooCommerce compatibility 
+
+Change Log: Version 1.1 (10th March, 2015)
+
+1- Added: Map style on directory map header
+2- Change the link which is sent to user once registration confirmation/login is complete.
+3- Fixed: Responsive issues
+4- Fixed: TGM bulk plugin activation issue. 
+
+
+
+Change Log: Version 1.2 (11th March, 2015)
+=======================================
+
+1- Added: Free package switch on/off
+2- Added: Map street view option
+3- Fixed: JS issue on package selection
+4- Fixed: Responsive issues
+
+
+
+Change Log: Version 1.3 (13th March, 2015)
+=======================================
+
+1- Added: Street view option on listing detail page
+2- Added: Search field option on advance search
+3- Added : A new listing view
+4- Changed: Geo location icon position on advance search
+5: Fixed: Responsive issues
+
+Change Log: Version 1.4 (19th March, 2015)
+=======================================
+
+1-    Added : Miles/Km switch in theme option
+2-    Added: Video attachment option for ads.  
+3-    Added: Multiple view for address.
+4-    Added: Price On/Off option for search.
+5-    Added: Review summary option on listing detail. 
+6-    Added: Directory views
+7-    Added: Subscriber element
+8-    Added: Categories views
+9-    Fixed: Demo data & XML issues. 
+10-  Fixed: Responsive issues 
+11-  Fixed: Featured list displaying issue on directory detail
+12-  Fixed: Search by city issue on search map
+13-  Fixed: RTL issues
+
+Change Log: Version 1.5 (20th March, 2015)
+=======================================
+
+1: Fixed: Responsive issues. 
+2- Added: URL for price table
+3- Added: New Listing Detail Style
+4. Added: New Agent Detail Style
+5- Added: New Map Auto Zoom Added
+6- Fixed: Custom CSS issue
+7- Fixed : Import Demo Data for demo users
+
+Change Log: Version 1.6 (26th March, 2015)
+=======================================
+
+Added : Geo location request on page load
+Added : Select language option in theme option for plugin
+Added : Map lock option on frontend
+Fixed : User data import
+Updated : Ad creation option from back-end
+Updated : Agent detail style
+Updated : Related ads style
+Fixed : Import demo data issues fixed and demo data improved 
+Fixed : User profile image cropping issue
+
+Change Log: Version 1.7 (27th March, 2015)
+=======================================
+
+Fixed: Minor styling issues 
+
+Change Log: Version 1.8 (1st April, 2015)
+=======================================
+
+1- Updated & improved: Back-end styling
+2- Added: Child theme of latest package
+3- Fixed: Lock icon loading issue on map
+4- Fixed: Categories issue on add creation
+5- Fixed: Location based search issue 
+
+Change Log: Version 1.9 (21st April, 2015)
+=======================================
+
+Fixed: Errors and warnings due to MailChimp API 
+
+Change Log: Version 2.0 (22nd April, 2015)
+=======================================
+
+Added: Advance location based search with country, state and city.
+
+1.    Fixed: Location based search issue
+2.    Fixed: Custom fields with special character saving issues
+3.    Fixed: Translation issues
+4.    Fixed: Titles with special characters issue fixed
+5.    Fixed: Category with special characters saving issue fixed.
+6.    Fixed : User profile image cannot  be uploaded from the backend, now Available
+7.    Fixed : User image was not shown on user detail page, Now shows fine
+8.    Fixed : Directory advance search for location not working, now works
+9.    Fixed : One category when attached with Two Directory types on Front end, in Search and filter Result was shown as Not Found, now shows fine
+10.    Fixed: When Multi Select in Backend was made and post was updated, when user came back to edit same post, was not able to see selected option. Now works fine
+11.    Fixed : Pagination for listing
+12.    Fixed : Records per page For Listing
+13.    Fixed : Listing category image missing after update
+14.    Fixed: Url custom filed was not showing at front end, now shows fine.
+15.    Fixed: Copyright text HTML attributes in footer were not working, now work fine.
+16.    Fixed: Question mark issue in Titles after translating website, now fixed.
+17.    Fixed: Rating star width issue in style.css. Now all stars show up accurately.
+ 
+
+Change Log: Version 2.1 (23rd April, 2015)
+=======================================
+
+Following New Payment Gateways have Been Added
+
+1- Skrill Money Booker
+
+2- Authorize.net
+
+Fixed: Sidebar search issue in case of permalinks off.
+Fixed: search page builder element saving issue
+Fixed: Styling issues in RTL 
+Added : Text Editor Front End For Add New Listing.
+
+Change Log: Theme Version 2.2 | Plugin Version 1.4 (24th April, 2015)
+=======================================
+
+Bank Payment Gateways have been Added
+
+1:- Added : Payment gateway (Bank Transfer ) 
+2:- Added : Add New Post Text editor 
+3:- Added : Opening Hours with each post 
+4:- Fixed : Empty Directory categories issue
+5- Fixed: Translation missing strings 
+
+Change Log: Theme Version 2.3 | Plugin Version 1.5 (April 28th, 2015)
+=======================================
+
+1:- Fixed : Category not showing issues with wordpress latest version 4.2
+2:- Fixed : RTL and translation issues.
+
+
+
+Change Log: Theme Version 2.4
+=======================================
+
+Version: 2.4
+===============================
+Fixed: Category and Tag update issue.
+Fixed: wordpress 4.2 compatibiliy issue.
+Fixed: Transation issue.
+Fixed: RTL and responsive issue.
+Added: Directory Type price option.
+Added: Multiple file attachment option.
+Added: Ads Contact Information.
+Added: Ads image caption on frontend.
+
+Version: 2.5
+===============================
+Fixed: Map Loading Issue Resolved
+Fixed: wordpress 4.2.2 compatibiliy issue.
+Fixed: Directory Type Price with 0 Removed
+Added: Ads image ClickAble on frontend.
+Fixed : Search issues latitude and langitude
+
+
+Version: 2.6
+===============================
+1. Fixed: Directory type transaction missing.
+2. Fixed: Map pin dragger.
+3. Fixed: Map zoom level freeze in edit mode.
+4. Added: Bank transaction Complete summary.
+5. Fixed: Social icon for user adt ad detail .
+6. Fixed: Opening hour backend style.
+7. Fixed: Login box translation fixed on focus and placeholder.
+8. Fixed: Currency selection and payment gateway.
+9. Fixed: Reviews issue fixed with language Translation.
+
+
+Version: 2.7
+===============================
+1. Added- On new ad request admin email notification.
+2. Added- Ater submiting new ad user & admin should be able to visit this ad. till it will not be published
+3. Fixed- On directory type selection categories fetched via Ajax in directory elemenmt.
+4. Fixed- On GoDAddy, Google maps / Not working it's fixed
+5. Fixed- Featured ads on top(selected) in directory element doesnt work on search result page.
+6. Fixed- Directory catagory shortcode not work in widget sidebar
+7. Fixed- Directory types appears normal for all ads in backend(status)
+8. Fixed- Directory result page after filteration banner doesn't show on search result page
+9. Fixed- Directory result page after filteration Map doesn't show on search result page
+10. Fixed- directory ad sorting issue like by date, alfabetic etc, ordering
+11. Fixed- Social Login google+ issue fixed
+12. Fixed- On Directory element If listing sort is selected as recent. On front-end no recent ads displayed.
+13. Fixed- On signup from "Login Button Position" from header or any, user role is set to none.
+14. Fixed- Map Element not working
+15. Fixed- Oppeneing hours On/off in directory type
+16. Fixed- Get direction at map directory detail page source marker("green at Source" & "Red on destination") 
+17. Fixed- directory catagory shortcode not work in widget sidebar
+
+
+Version: 2.8
+===============================
+1. Fixed: Directory Random Listing Issue
+2. Fixed: Short code: Image frame Image not showing 
+3. Fixed: Geo location button not show on listing page
+4. Fixed: Opening hours ON/OFF switcher don’t work
+5. Fixed: Map Marker not showing on directory Detailed page
+6. Fixed: Validation for directory types and Agree Terms while posting Ad
+7. Fixed: Listing count doesn’t show accurate result as No. of recent ads on agent detail page
+8. Fixed: Custom fields doesn’t show in search result 
+9. Fixed: Still showing Related listings on Agent detail page with 0 listing 
+10. Fixed: Radius title hide under post code or location when set to left
+11. Fixed: Optimize Search query for min, max sale price field
+12. Fixed: Main menu font size adjustment from Theme options
+13. Fixed: Directory search filter query improvement
+14. Fixed: Source Map Marker reverse issue
+15. Fixed: Directory categories short code not working on sidebar
+16:Fixed: Search button style issue
+17:Fixed: Image switch ON/Off in directory type
+18:Fixed: Directory layout not updating
+
+
+Version: 2.9 (Plugin Version 2.1) 
+===============================
+Fixed: Price on call tag is not being displayed if there is no price is give on detail page
+Fixed: Issue with , register element Content
+Fixed: Location issue search on map but not in listing.
+Fixed: Min Max price styling issue.
+Fixed: Google Location search in Listing.
+
+
+
+Directory Theme 3.0 Wp-Directory Plugin Version 2.2)
+===============================
+Fixed: WPML, multilingual compatibility from wp-directory plugin
+Fixed: On User profile , Image not uploading on defined dimension
+Fixed: Recent review posted by ( was admin, now changed to reviewer name)
+Fixed: directory payments double charge issue on directory ads package update from front-end
+Improved: Security applied on post editing from front-end
+improved: Radius search has been improved, accuracy has been improved
+Fixed: Issue with directory listing page showing limited listing
+Fixed: Contact information's and opening hours now showing on ad edit page from front-end
+Fixed: Custom class don’t work with elements
+Fixed: Date formatting issue with blog posts : showing current date 
+Improved: Search filtration has been improved, more accuracy with multiple filter and custom fields
+Fixed: Request detail form doesn’t include directory ad name as reference of contact
+Fixed: Archive page showing wrong dates issue
+
+
+
+Directory Theme 3.1 Wp-Directory Plugin Version 2.3)
+===============================
+New:  Taxonomy based locations (Support for All Languages)
+New:  Directory post tag base search has been enabled on advance search
+New:  Limited Free Packages for Directory Ads (Free ad would expire after certain number of days)
+New:  Directory Package title Updating as per Number of days specified for Free package
+New:  Packages Multi Lingual (Using WPML String translation)
+New:  Directory Ad Detail Map Switch on/off  for frontend
+New:  While adding review for any listing (after login) it should redirect to the same listing not to the dashboard
+New:  Directory ad Price Switch specific to directory type for frontend
+New:  Widgetised Sidebar on Directory Detail Page
+==============================================================
+Fixed:  Directory Social Share (Add This) Posting Wrong image on Facebook Issue
+Fixed:  Categories sorting “by title” improved
+Fixed:  Directory Type image Icons does not load with demo data import
+Fixed:  Radius slider should must be call on the basis of location fields on the home page. User must need to add a location to load ads on the map with Ajax.  
+Fixed:  Directory page element do not load results for selected directory category
+Fixed:  Ads filter with radius issue
+Fixed:  Directory element popular post should sort accurately according to the settings
+Fixed:  WPML switch (WPML is showing though the switch is OFF in theme options header)
+Fixed:  Twitter tweets are not appearing on frontend (Tweets Cache and Date and Time format added In API Settings)
+Fixed:  Url duplication issue in listing pagination 
+
+
+
+Directory Theme 3.2 Wp-Directory Plugin Version 2.4)
+===============================
+Updated:  Json Based Theme Option Import Export
+Updated:  Json Widgets Import Export
+Added :   Multiple Backups Can Be Genrate on server also can be download By Date / Time
+Added :   Google Structure Validate for Html and W3 Validation
+Added :   Discription Length For Detailed List View and Discription on/off / Directoy Listing Element
+Added :   global-variable.php for Undefined Theme Options Variable
+New:      TypoGraphy Fonts New Added with Udated Google Fonts.
+New :     Theme Color Will Save in Custom-style.css File Will be updated when Theme Option Saved.
+Fixed :   Subheader from Theme Option and Pages Settings was not working Correct
+Fixed :   Social Share For Blog Detail Page
+Fixed :   Location name For Listing Changed From Slug To Full Name
+Fixed :   Styling Issue and Minor Rtl Issue
+Revoked : theme-color.php
+Revoked : theme-option-array.php Coverted Demo Will be installed trough Json
+
+
+
+Directory Theme 3.3 Wp-Directory Plugin Version 2.5)
+===============================
+Fixed : Blog Pagination
+Added : Comments For Pages
+Fixed : Location Slug based
+Updated : Demo Data With Locations
+Fixed : Minor Styling Issues
+Fixed : Tags in search Filter With Name 
+Fixed : Media Gallery Pop In Admin Grid View
+Fixed : Back Edit Add Location on Map Was Missing
+Fixed : Theme Option Directory Post type Slug Update Permalinks After Changing Slug
+Improved : Radius Accuracy
+Fixed : Subheader Breadcrumb Subcategory Updated
+Fixed : Directory Listing Pagination On Filter and on View Change
